@@ -89,6 +89,7 @@ db:
 ## Accepted values: "http(s)://<IP-HOSTNAME>:<Port>"
 ## Default: <none>
 ##
+#test
 invidious_companion:
   - private_url: "http://localhost:8282"
     public_url: "http://localhost:8282"
